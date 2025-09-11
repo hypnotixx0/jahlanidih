@@ -1,5 +1,6 @@
 body {
-    background-color: black;
+    background-image: url("IMG_6087.gif");
+    
 }
 .audio-player {
     position: fixed;
@@ -80,7 +81,7 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   
-  background-color: #1a1a1a;
+  background-image: url("Screenshot 2025-09-11 154053.png");
   color: white;
   font-family: Arial, sans-serif;
   font-size: 36px;              /* Make it big */
